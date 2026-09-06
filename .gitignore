@@ -25,3 +25,6 @@ images/*.png
 # Editor
 .vscode/
 .idea/
+
+# Removed on request
+images/2.jpg
